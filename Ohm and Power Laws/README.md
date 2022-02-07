@@ -5,4 +5,4 @@ Brief description of the Ohm and Power Laws experiment:
 - Performed linear and nonlinear regressions on data to determine optimal parameters for curves of best fit.
 - Plotted findings on log-log scales and compared the various best fit curves.
 - Calculated reduced chi squared from parameters.
-- Wrote up the analysis in a comprehensive lab report
+- Wrote up the analysis in a comprehensive lab report.
